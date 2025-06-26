@@ -26,8 +26,8 @@ We value your feedback! If you have any suggestions or if you have your own pape
 
 - **Decision tree-based**
 
-|                          **Title**                           | **Year** |      **Venue**      |                     **Code**                     |
-| :----------------------------------------------------------: | :------: | :-----------------: | :----------------------------------------------: |
+| **Title**                                                    | **Year** |      **Venue**      |                     **Code**                     |
+| :----------------------------------------------------------- | :------: | :-----------------: | :----------------------------------------------: |
 | [Optimal Interpretable Clustering Using Oblique Decision Trees](https://doi.org/10.1145/3534678.3539361) |   2022   |         KDD         |                                                  |
 | [XClusters: Explainability-First Clustering](https://doi.org/10.1609/aaai.v37i7.25963) |   2023   |        AAAI         |                                                  |
 | [Interpretable clustering: an optimization approach](https://doi.org/10.1007/s10994-020-05896-2) |   2020   |  Machine Learning   | [Julia](https://github.com/agniorf/ICOT-Example) |
