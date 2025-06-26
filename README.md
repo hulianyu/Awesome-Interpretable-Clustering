@@ -1,5 +1,5 @@
-<div align="center">
 # Awesome Interpretable Clustering [![arXiv](https://img.shields.io/badge/arXiv-2409.00743-b31b1b.svg)](https://arxiv.org/abs/2409.00743)[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 This repository is a curated collection of literature on **Interpretable Clustering**, offering a comprehensive and structured perspective on the current state of interpretable and explainable clustering methods. It highlights **key criteria** for categorizing these methods, facilitating future research and development in this evolving field. 
 
