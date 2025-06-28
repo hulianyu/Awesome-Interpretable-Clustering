@@ -34,7 +34,7 @@ We value your feedback! If you have any suggestions or if you have your own pape
 | [Interpretable categorical data clustering via hypothesis testing](https://doi.org/10.1016/j.patcog.2025.111364) |   2025   | Pattern Recognition  |  [MATLAB](https://github.com/hulianyu/SigTree)   |
 | [Significance-based decision tree for interpretable categorical data clustering](https://doi.org/10.1016/j.ins.2024.121588) |   2025   | Information Sciences |   [MATLAB](https://github.com/hulianyu/SigDT)    |
 | [Significance-based interpretable sequence clustering](https://doi.org/10.1016/j.ins.2025.121972) |   2025   | Information Sciences |   [MATLAB](https://github.com/hulianyu/SigISC)   |
-| [Interpretable Clustering Ensemble]([ https://doi.org/10.48550/arXiv.2506.05877](https://doi.org/10.48550/arXiv.2506.05877)) |   2025   |        arXiv         |                                                  |
+| [Interpretable Clustering Ensemble](https://doi.org/10.48550/arXiv.2506.05877) |   2025   |        arXiv         |                                                  |
 | [XClusters: Explainability-First Clustering](https://doi.org/10.1609/aaai.v37i7.25963) |   2023   |         AAAI         |                                                  |
 | [Optimal Interpretable Clustering Using Oblique Decision Trees](https://doi.org/10.1145/3534678.3539361) |   2022   |         KDD          |                                                  |
 | [Interpretable fuzzy clustering using unsupervised fuzzy decision trees](https://doi.org/10.1016/j.ins.2022.08.077) |   2022   | Information Sciences |                                                  |
