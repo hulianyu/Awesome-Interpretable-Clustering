@@ -80,9 +80,10 @@ We value your feedback! If you have any suggestions or if you have your own pape
 
 - **Rule-based**
 
-| **Title**                                                    | **Year** | **Venue** | **Code** |
-| :----------------------------------------------------------- | :------: | :-------: | :------: |
-| [Explaining clusterings of process instances](https://doi.org/10.1007/s10618-016-0488-4) |   2017   |   DMKD    |          |
+| **Title**                                                    | **Year** | **Venue** |                          **Code**                           |
+| :----------------------------------------------------------- | :------: | :-------: | :---------------------------------------------------------: |
+| [Explaining clusterings of process instances](https://doi.org/10.1007/s10618-016-0488-4) |   2017   |   DMKD    |                                                             |
+| [Explaining Black-Box Clustering Pipelines with Cluster-Explorer](https://doi.org/10.14778/3718057.3718075) |   2025   |   VLDB    | [Python](https://github.com/analysis-bots/cluster-explorer) |
 
 - **Others**
 
