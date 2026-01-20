@@ -4,7 +4,7 @@
 
 This repository is a curated collection of literature on **Interpretable Clustering**, offering a comprehensive and structured perspective on the current state of interpretable and explainable clustering methods. It highlights **key criteria** for categorizing these methods, facilitating future research and development in this evolving field. 
 
-If you find this repository helpful, we kindly encourage you to read and cite our paper, **"Interpretable Clustering: A Survey"**  ([read here](https://arxiv.org/pdf/2409.00743); [citation](#Citation)). 
+If you find this repository helpful, we kindly encourage you to read and cite our paper, **"Interpretable Clustering: A Survey"**  ([read here](https://dl.acm.org/doi/epdf/10.1145/3789495); [citation](#Citation)). 
 
 We value your feedback! If you have any suggestions or if you have your own paper that advances this topic, please contact us at hly4ml@gmail.com.
 
