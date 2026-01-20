@@ -98,9 +98,14 @@ We value your feedback! If you have any suggestions or if you have your own pape
 
 ## Citation
 
-    @article{hu2024interpretable,
-      title={Interpretable Clustering: A Survey},
-      author={Hu, Lianyu and Jiang, Mudi and Dong, Junjie and Liu, Xinying and He, Zengyou},
-      journal={arXiv preprint arXiv:2409.00743},
-      year={2024}
+    @article{hu2026xclu,
+    title = {Interpretable Clustering: A Survey},
+    author = {Hu, Lianyu and Jiang, Mudi and Dong, Junjie and Liu, Xinying and He, Zengyou},
+    journal = {ACM Computing Surveys},
+    year = {2026},
+    publisher = {Association for Computing Machinery},
+    url = {https://doi.org/10.1145/3789495},
+    doi = {10.1145/3789495},
+    note = {Just Accepted},
+    keywords = {Interpretable Clustering, Algorithmic Interpretability, Interpretable Machine Learning and Data Mining, Explainable Artificial Intelligence (XAI)}
     }
