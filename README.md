@@ -98,15 +98,17 @@ We value your feedback! If you have any suggestions or if you have your own pape
 
 ## Citation
 
-  @Article{Hu2026xclu,
-    author = {Hu, Lianyu and Jiang, Mudi and Dong, Junjie and Liu, Xinying and He, Zengyou},
-    title = {Interpretable Clustering: A Survey},
-    doi = {10.1145/3789495},
-    number = {8},
-    url = {https://doi.org/10.1145/3789495},
-    volume = {58},
-    articleno = {215},
-    journal = {ACM Computing Surveys},
-    keywords = {Interpretable clustering, algorithmic interpretability, interpretable machine learning and data mining, Explainable Artificial Intelligence (XAI)},
-    year = {2026},
-  }
+If you find my code useful please consider citing:
+
+    @article{Hu2026xclu,
+      title = {Interpretable Clustering: A Survey},
+      author = {Hu, Lianyu and Jiang, Mudi and Dong, Junjie and Liu, Xinying and He, Zengyou},
+      journal = {ACM Computing Surveys},
+      year = {2026},
+      volume = {58},
+      number = {8},
+      articleno = {215},
+      publisher = {Association for Computing Machinery},
+      doi = {10.1145/3789495},
+      keywords = {Interpretable clustering, algorithmic interpretability, interpretable machine learning and data mining, Explainable Artificial Intelligence (XAI)},
+    }
